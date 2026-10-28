@@ -1,0 +1,501 @@
+Ticket_ID,Journey_Date,Departure_Time,Passenger_ID,Source_City,Destination_City,Distance_KM,Train_Type,Travel_Class,Ticket_Fare_INR,Booking_Status,Booking_Mode,Age_Group,Travel_Purpose,Is_Weekend
+TKT00001,2026-07-10,17:19:00,PAX0058,Kolkata,Chennai,1662,Superfast,Sleeper,1040.89,Confirmed,Website,18-25,Work,False
+TKT00002,2026-01-28,22:50:00,PAX0115,Delhi,Kolkata,1462,Vande Bharat,Chair Car,3089.22,Confirmed,Website,26-40,Leisure,False
+TKT00003,2026-07-25,09:02:00,PAX0146,Bengaluru,Mumbai,987,Superfast,General,553.08,Cancelled,Station Counter,18-25,Education,True
+TKT00004,2026-01-30,11:26:00,PAX0106,Mumbai,Pune,151,Passenger,General,60.0,Confirmed,Mobile App,41-60,Education,False
+TKT00005,2026-01-14,19:48:00,PAX0139,Mumbai,Hyderabad,711,Rajdhani,2AC,1842.28,Confirmed,Mobile App,18-25,Work,False
+TKT00006,2026-02-01,13:57:00,PAX0002,Vijayawada,Hyderabad,360,Superfast,1AC,1655.59,Confirmed,Mobile App,18-25,Medical,True
+TKT00007,2026-05-06,18:15:00,PAX0026,Pune,Mumbai,136,Rajdhani,2AC,413.3,Confirmed,Mobile App,26-40,Work,False
+TKT00008,2026-06-19,12:39:00,PAX0094,Kolkata,Chennai,1647,Vande Bharat,Chair Car,3141.7,Confirmed,Mobile App,26-40,Work,False
+TKT00009,2026-04-22,07:11:00,PAX0082,Chennai,Hyderabad,612,Express,2AC,1383.82,Confirmed,Station Counter,26-40,Work,False
+TKT00010,2026-02-03,18:06:00,PAX0019,Kolkata,Delhi,1443,Superfast,3AC,2424.38,Confirmed,Mobile App,26-40,Leisure,False
+TKT00011,2026-02-24,05:21:00,PAX0108,Mumbai,Delhi,1387,Passenger,General,462.52,Confirmed,Mobile App,60+,Education,False
+TKT00012,2026-08-21,06:53:00,PAX0009,Delhi,Lucknow,494,Rajdhani,1AC,2387.56,Confirmed,Mobile App,41-60,Work,False
+TKT00013,2026-09-20,16:41:00,PAX0149,Bengaluru,Chennai,348,Superfast,Sleeper,225.32,Confirmed,Station Counter,41-60,Education,True
+TKT00014,2026-07-25,18:29:00,PAX0024,Bengaluru,Mumbai,990,Express,Sleeper,697.99,Waitlisted,Station Counter,26-40,Leisure,True
+TKT00015,2026-01-29,20:16:00,PAX0067,Kolkata,Delhi,1456,Superfast,Sleeper,932.62,Waitlisted,Station Counter,26-40,Work,False
+TKT00016,2026-08-12,07:08:00,PAX0124,Hyderabad,Bengaluru,559,Express,General,292.17,Cancelled,Website,26-40,Family Visit,False
+TKT00017,2026-07-08,05:16:00,PAX0078,Jaipur,Delhi,310,Vande Bharat,Chair Car,640.23,Confirmed,Station Counter,26-40,Work,False
+TKT00018,2026-05-24,21:09:00,PAX0112,Hyderabad,Mumbai,706,Superfast,2AC,2077.33,Confirmed,Website,18-25,Work,True
+TKT00019,2026-02-09,06:11:00,PAX0106,Bengaluru,Mumbai,978,Vande Bharat,Executive Chair Car,3730.31,Confirmed,Mobile App,26-40,Medical,False
+TKT00020,2026-09-30,06:41:00,PAX0143,Bengaluru,Chennai,358,Vande Bharat,Executive Chair Car,1447.82,Waitlisted,Website,Under 18,Family Visit,False
+TKT00021,2026-05-01,08:07:00,PAX0070,Mumbai,Pune,139,Passenger,General,68.67,Confirmed,Station Counter,Under 18,Education,False
+TKT00022,2026-01-13,14:02:00,PAX0147,Mumbai,Delhi,1386,Passenger,General,511.75,Confirmed,Mobile App,41-60,Family Visit,False
+TKT00023,2026-02-27,20:32:00,PAX0078,Hyderabad,Vijayawada,345,Vande Bharat,Executive Chair Car,1459.12,Confirmed,Website,Under 18,Leisure,False
+TKT00024,2026-04-20,18:17:00,PAX0134,Lucknow,Delhi,485,Vande Bharat,Chair Car,1007.26,Confirmed,Website,26-40,Education,False
+TKT00025,2026-01-18,17:27:00,PAX0110,Kolkata,Chennai,1659,Vande Bharat,Executive Chair Car,6454.77,Confirmed,Website,26-40,Family Visit,True
+TKT00026,2026-03-30,06:08:00,PAX0020,Chennai,Hyderabad,615,Express,3AC,979.75,Confirmed,Mobile App,18-25,Family Visit,False
+TKT00027,2026-05-08,09:12:00,PAX0097,Delhi,Kolkata,1463,Superfast,2AC,4196.55,Confirmed,Website,41-60,Work,False
+TKT00028,2026-09-16,12:26:00,PAX0132,Hyderabad,Mumbai,725,Express,3AC,1122.65,Waitlisted,Station Counter,18-25,Leisure,False
+TKT00029,2026-01-24,06:41:00,PAX0020,Hyderabad,Chennai,634,Vande Bharat,Chair Car,1459.24,Confirmed,Mobile App,41-60,Education,True
+TKT00030,2026-06-07,07:24:00,PAX0126,Pune,Mumbai,165,Passenger,General,84.16,Waitlisted,Mobile App,41-60,Work,True
+TKT00031,2026-09-08,08:32:00,PAX0016,Pune,Mumbai,161,Superfast,Sleeper,148.26,Confirmed,Mobile App,18-25,Medical,False
+TKT00032,2026-08-09,05:31:00,PAX0131,Vijayawada,Hyderabad,347,Express,Sleeper,235.57,Confirmed,Mobile App,18-25,Leisure,True
+TKT00033,2026-09-10,14:16:00,PAX0119,Delhi,Mumbai,1366,Superfast,2AC,3074.21,Confirmed,Agent,18-25,Leisure,False
+TKT00034,2026-02-16,17:16:00,PAX0023,Mumbai,Delhi,1378,Passenger,General,472.59,Cancelled,Website,26-40,Leisure,False
+TKT00035,2026-08-07,04:25:00,PAX0109,Kolkata,Delhi,1444,Express,Sleeper,889.93,Confirmed,Mobile App,18-25,Leisure,False
+TKT00036,2026-09-25,12:01:00,PAX0018,Hyderabad,Chennai,615,Express,2AC,1548.69,Confirmed,Mobile App,60+,Work,False
+TKT00037,2026-03-31,18:41:00,PAX0086,Chennai,Hyderabad,629,Rajdhani,2AC,1600.98,Confirmed,Agent,18-25,Medical,False
+TKT00038,2026-05-17,18:36:00,PAX0139,Kolkata,Delhi,1442,Vande Bharat,Chair Car,3345.49,Confirmed,Mobile App,41-60,Leisure,True
+TKT00039,2026-05-25,19:18:00,PAX0031,Bengaluru,Hyderabad,585,Express,General,240.6,Confirmed,Station Counter,18-25,Leisure,False
+TKT00040,2026-05-15,11:22:00,PAX0027,Pune,Mumbai,153,Express,3AC,290.01,Confirmed,Mobile App,60+,Education,False
+TKT00041,2026-03-21,19:19:00,PAX0064,Kolkata,Delhi,1443,Rajdhani,2AC,4377.3,Cancelled,Mobile App,18-25,Work,True
+TKT00042,2026-09-23,07:39:00,PAX0056,Bengaluru,Mumbai,972,Passenger,General,390.67,Confirmed,Website,26-40,Work,False
+TKT00043,2026-09-19,09:45:00,PAX0008,Mumbai,Pune,152,Passenger,General,60.0,Confirmed,Mobile App,26-40,Education,True
+TKT00044,2026-04-14,06:06:00,PAX0069,Delhi,Mumbai,1385,Superfast,General,786.65,Confirmed,Website,18-25,Work,False
+TKT00045,2026-08-08,12:24:00,PAX0039,Bengaluru,Mumbai,984,Express,General,452.59,Waitlisted,Mobile App,41-60,Leisure,True
+TKT00046,2026-04-19,10:00:00,PAX0019,Chennai,Kolkata,1646,Express,3AC,2856.01,Waitlisted,Station Counter,18-25,Family Visit,True
+TKT00047,2026-08-05,07:27:00,PAX0042,Delhi,Mumbai,1392,Vande Bharat,Chair Car,3033.27,Confirmed,Station Counter,26-40,Work,False
+TKT00048,2026-06-09,18:14:00,PAX0004,Hyderabad,Bengaluru,565,Express,3AC,935.66,Cancelled,Station Counter,26-40,Education,False
+TKT00049,2026-05-09,08:20:00,PAX0138,Pune,Mumbai,151,Express,2AC,323.26,Confirmed,Mobile App,26-40,Leisure,True
+TKT00050,2026-02-04,07:27:00,PAX0150,Hyderabad,Chennai,633,Vande Bharat,Executive Chair Car,2551.83,Waitlisted,Station Counter,18-25,Work,False
+TKT00051,2026-06-28,05:19:00,PAX0056,Hyderabad,Chennai,623,Rajdhani,1AC,3305.37,Cancelled,Agent,18-25,Family Visit,True
+TKT00052,2026-03-29,11:23:00,PAX0132,Hyderabad,Mumbai,723,Vande Bharat,Chair Car,1348.37,Confirmed,Mobile App,18-25,Education,True
+TKT00053,2026-03-01,08:45:00,PAX0070,Kolkata,Chennai,1656,Superfast,Sleeper,1295.55,Confirmed,Mobile App,18-25,Work,True
+TKT00054,2026-02-22,09:48:00,PAX0137,Pune,Mumbai,145,Superfast,3AC,278.57,Confirmed,Station Counter,18-25,Work,True
+TKT00055,2026-09-26,07:00:00,PAX0026,Mumbai,Pune,151,Superfast,Sleeper,122.37,Confirmed,Mobile App,60+,Family Visit,True
+TKT00056,2026-01-29,18:22:00,PAX0043,Chennai,Kolkata,1648,Superfast,Sleeper,1115.69,Waitlisted,Website,26-40,Work,False
+TKT00057,2026-08-06,21:50:00,PAX0111,Delhi,Kolkata,1454,Superfast,Sleeper,1031.55,Confirmed,Station Counter,26-40,Leisure,False
+TKT00058,2026-08-25,13:31:00,PAX0034,Jaipur,Delhi,314,Superfast,2AC,796.53,Confirmed,Mobile App,26-40,Work,False
+TKT00059,2026-01-09,16:12:00,PAX0124,Chennai,Hyderabad,619,Passenger,General,228.73,Waitlisted,Website,18-25,Work,False
+TKT00060,2026-06-10,20:35:00,PAX0064,Mumbai,Hyderabad,700,Rajdhani,3AC,1391.97,Confirmed,Website,26-40,Family Visit,False
+TKT00061,2026-06-07,23:08:00,PAX0061,Mumbai,Pune,156,Rajdhani,3AC,328.3,Confirmed,Mobile App,18-25,Work,True
+TKT00062,2026-04-08,16:01:00,PAX0068,Kolkata,Delhi,1448,Express,General,649.57,Confirmed,Station Counter,26-40,Work,False
+TKT00063,2026-07-02,20:37:00,PAX0120,Delhi,Jaipur,312,Superfast,2AC,843.05,Confirmed,Mobile App,26-40,Leisure,False
+TKT00064,2026-04-22,20:30:00,PAX0001,Pune,Mumbai,135,Express,Sleeper,135.34,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00065,2026-05-01,19:45:00,PAX0113,Chennai,Bengaluru,351,Superfast,Sleeper,244.41,Confirmed,Station Counter,60+,Education,False
+TKT00066,2026-04-28,12:20:00,PAX0117,Delhi,Jaipur,314,Express,3AC,537.69,Confirmed,Mobile App,18-25,Work,False
+TKT00067,2026-08-07,04:51:00,PAX0124,Delhi,Jaipur,322,Express,Sleeper,217.2,Confirmed,Station Counter,26-40,Medical,False
+TKT00068,2026-06-22,00:25:00,PAX0150,Hyderabad,Bengaluru,569,Vande Bharat,Chair Car,1268.39,Confirmed,Mobile App,18-25,Leisure,False
+TKT00069,2026-04-14,12:44:00,PAX0118,Hyderabad,Mumbai,710,Superfast,3AC,1103.59,Confirmed,Website,26-40,Family Visit,False
+TKT00070,2026-09-11,13:06:00,PAX0080,Delhi,Kolkata,1457,Rajdhani,1AC,6789.96,Confirmed,Mobile App,41-60,Family Visit,False
+TKT00071,2026-08-07,10:05:00,PAX0070,Hyderabad,Chennai,624,Express,Sleeper,482.18,Confirmed,Website,18-25,Leisure,False
+TKT00072,2026-09-12,15:46:00,PAX0059,Mumbai,Delhi,1391,Express,2AC,3229.6,Confirmed,Station Counter,26-40,Education,True
+TKT00073,2026-07-19,15:50:00,PAX0125,Bengaluru,Mumbai,990,Superfast,Sleeper,781.72,Confirmed,Station Counter,26-40,Education,True
+TKT00074,2026-04-17,19:56:00,PAX0059,Hyderabad,Bengaluru,568,Express,General,296.23,Confirmed,Agent,18-25,Family Visit,False
+TKT00075,2026-07-31,05:19:00,PAX0086,Hyderabad,Mumbai,707,Express,General,283.56,Confirmed,Website,60+,Family Visit,False
+TKT00076,2026-03-31,07:01:00,PAX0015,Hyderabad,Bengaluru,585,Rajdhani,2AC,1630.06,Cancelled,Station Counter,26-40,Medical,False
+TKT00077,2026-03-15,19:58:00,PAX0048,Bengaluru,Hyderabad,580,Express,3AC,904.87,Confirmed,Website,41-60,Leisure,True
+TKT00078,2026-05-04,19:36:00,PAX0040,Chennai,Bengaluru,357,Express,Sleeper,257.2,Confirmed,Agent,26-40,Work,False
+TKT00079,2026-09-22,23:14:00,PAX0066,Jaipur,Delhi,295,Superfast,General,140.25,Confirmed,Website,60+,Education,False
+TKT00080,2026-06-05,20:45:00,PAX0076,Chennai,Kolkata,1648,Superfast,2AC,4187.8,Confirmed,Station Counter,18-25,Leisure,False
+TKT00081,2026-04-15,20:54:00,PAX0108,Mumbai,Pune,164,Passenger,General,61.97,Confirmed,Mobile App,26-40,Education,False
+TKT00082,2026-05-07,08:17:00,PAX0065,Delhi,Mumbai,1380,Superfast,3AC,2568.02,Confirmed,Website,41-60,Family Visit,False
+TKT00083,2026-03-21,10:46:00,PAX0023,Mumbai,Bengaluru,975,Vande Bharat,Chair Car,1966.98,Waitlisted,Station Counter,26-40,Leisure,True
+TKT00084,2026-06-29,07:47:00,PAX0082,Chennai,Hyderabad,640,Express,General,300.68,Confirmed,Mobile App,26-40,Work,False
+TKT00085,2026-04-06,16:30:00,PAX0009,Hyderabad,Mumbai,715,Superfast,2AC,2198.95,Confirmed,Mobile App,60+,Leisure,False
+TKT00086,2026-06-01,21:37:00,PAX0128,Hyderabad,Mumbai,697,Passenger,General,310.51,Confirmed,Agent,26-40,Leisure,False
+TKT00087,2026-04-11,09:16:00,PAX0116,Mumbai,Pune,143,Vande Bharat,Chair Car,389.15,Confirmed,Mobile App,41-60,Family Visit,True
+TKT00088,2026-03-29,15:55:00,PAX0034,Delhi,Kolkata,1463,Superfast,Sleeper,1126.6,Confirmed,Mobile App,26-40,Education,True
+TKT00089,2026-09-22,08:58:00,PAX0040,Chennai,Hyderabad,611,Superfast,3AC,1226.92,Confirmed,Mobile App,41-60,Leisure,False
+TKT00090,2026-04-05,06:58:00,PAX0005,Jaipur,Delhi,306,Express,Sleeper,231.84,Waitlisted,Mobile App,41-60,Education,True
+TKT00091,2026-01-20,06:44:00,PAX0055,Chennai,Hyderabad,638,Express,1AC,2468.66,Confirmed,Website,26-40,Leisure,False
+TKT00092,2026-04-14,04:02:00,PAX0006,Mumbai,Pune,155,Express,3AC,279.83,Confirmed,Agent,18-25,Work,False
+TKT00093,2026-05-26,21:21:00,PAX0141,Delhi,Kolkata,1435,Vande Bharat,Chair Car,3023.3,Confirmed,Agent,Under 18,Family Visit,False
+TKT00094,2026-01-26,10:26:00,PAX0021,Delhi,Mumbai,1391,Express,Sleeper,1006.58,Confirmed,Website,26-40,Family Visit,False
+TKT00095,2026-03-25,19:57:00,PAX0099,Hyderabad,Bengaluru,566,Vande Bharat,Chair Car,1156.46,Waitlisted,Website,41-60,Leisure,False
+TKT00096,2026-02-15,17:32:00,PAX0086,Bengaluru,Chennai,336,Express,3AC,663.08,Confirmed,Mobile App,26-40,Leisure,True
+TKT00097,2026-05-17,06:32:00,PAX0036,Delhi,Mumbai,1372,Vande Bharat,Chair Car,3055.87,Confirmed,Station Counter,18-25,Work,True
+TKT00098,2026-07-17,06:08:00,PAX0122,Mumbai,Hyderabad,721,Vande Bharat,Chair Car,1455.08,Confirmed,Mobile App,18-25,Leisure,False
+TKT00099,2026-09-22,19:47:00,PAX0017,Hyderabad,Mumbai,703,Express,2AC,1749.54,Waitlisted,Mobile App,26-40,Education,False
+TKT00100,2026-04-17,07:20:00,PAX0134,Vijayawada,Hyderabad,355,Express,3AC,647.44,Confirmed,Agent,41-60,Family Visit,False
+TKT00101,2026-08-24,20:05:00,PAX0112,Lucknow,Delhi,506,Express,3AC,899.74,Confirmed,Station Counter,18-25,Work,False
+TKT00102,2026-02-28,06:59:00,PAX0096,Mumbai,Pune,162,Vande Bharat,Chair Car,377.06,Waitlisted,Mobile App,26-40,Family Visit,True
+TKT00103,2026-08-02,17:11:00,PAX0132,Bengaluru,Hyderabad,567,Express,General,261.4,Confirmed,Website,41-60,Work,True
+TKT00104,2026-06-03,19:00:00,PAX0061,Vijayawada,Hyderabad,361,Superfast,Sleeper,278.51,Confirmed,Website,60+,Leisure,False
+TKT00105,2026-07-26,07:04:00,PAX0043,Kolkata,Chennai,1672,Superfast,2AC,4441.83,Confirmed,Mobile App,18-25,Leisure,True
+TKT00106,2026-07-26,07:27:00,PAX0024,Mumbai,Pune,144,Vande Bharat,Executive Chair Car,545.14,Confirmed,Mobile App,60+,Work,True
+TKT00107,2026-05-26,22:06:00,PAX0139,Kolkata,Delhi,1438,Superfast,2AC,3833.39,Confirmed,Mobile App,26-40,Education,False
+TKT00108,2026-03-12,07:50:00,PAX0061,Hyderabad,Bengaluru,563,Superfast,3AC,1052.02,Waitlisted,Website,41-60,Family Visit,False
+TKT00109,2026-05-24,11:30:00,PAX0125,Mumbai,Hyderabad,716,Rajdhani,2AC,2162.58,Confirmed,Mobile App,18-25,Leisure,True
+TKT00110,2026-08-14,11:19:00,PAX0050,Lucknow,Delhi,487,Express,3AC,720.07,Confirmed,Website,26-40,Work,False
+TKT00111,2026-09-22,07:00:00,PAX0144,Delhi,Kolkata,1448,Vande Bharat,Chair Car,2953.87,Cancelled,Mobile App,26-40,Education,False
+TKT00112,2026-09-11,18:28:00,PAX0131,Hyderabad,Chennai,635,Express,3AC,1225.24,Waitlisted,Agent,18-25,Work,False
+TKT00113,2026-02-19,18:09:00,PAX0047,Bengaluru,Hyderabad,579,Superfast,Sleeper,459.89,Waitlisted,Website,26-40,Leisure,False
+TKT00114,2026-06-13,09:58:00,PAX0074,Bengaluru,Chennai,347,Rajdhani,3AC,714.72,Confirmed,Station Counter,26-40,Leisure,True
+TKT00115,2026-01-29,19:17:00,PAX0120,Hyderabad,Chennai,615,Passenger,General,245.95,Cancelled,Mobile App,26-40,Work,False
+TKT00116,2026-07-02,07:28:00,PAX0034,Bengaluru,Mumbai,995,Passenger,General,373.65,Confirmed,Website,Under 18,Leisure,False
+TKT00117,2026-09-28,00:01:00,PAX0004,Mumbai,Pune,136,Express,3AC,254.24,Confirmed,Station Counter,26-40,Family Visit,False
+TKT00118,2026-01-15,15:07:00,PAX0044,Mumbai,Pune,147,Superfast,3AC,324.13,Confirmed,Mobile App,18-25,Family Visit,False
+TKT00119,2026-06-29,23:12:00,PAX0089,Kolkata,Delhi,1445,Superfast,General,802.52,Waitlisted,Mobile App,60+,Work,False
+TKT00120,2026-09-16,03:03:00,PAX0021,Bengaluru,Chennai,339,Superfast,Sleeper,255.69,Waitlisted,Mobile App,60+,Work,False
+TKT00121,2026-08-20,07:43:00,PAX0051,Bengaluru,Chennai,345,Superfast,3AC,525.6,Confirmed,Mobile App,18-25,Education,False
+TKT00122,2026-04-18,14:56:00,PAX0138,Bengaluru,Chennai,341,Superfast,3AC,701.94,Confirmed,Mobile App,18-25,Work,True
+TKT00123,2026-01-29,19:59:00,PAX0012,Mumbai,Hyderabad,724,Superfast,Sleeper,535.94,Confirmed,Mobile App,18-25,Education,False
+TKT00124,2026-09-10,05:15:00,PAX0008,Mumbai,Delhi,1384,Express,Sleeper,911.52,Confirmed,Mobile App,26-40,Work,False
+TKT00125,2026-09-09,10:47:00,PAX0064,Mumbai,Hyderabad,722,Superfast,Sleeper,533.92,Confirmed,Website,41-60,Work,False
+TKT00126,2026-06-08,18:30:00,PAX0002,Delhi,Jaipur,324,Express,Sleeper,234.23,Confirmed,Mobile App,26-40,Leisure,False
+TKT00127,2026-09-25,09:02:00,PAX0005,Delhi,Mumbai,1395,Rajdhani,3AC,2634.45,Confirmed,Mobile App,18-25,Work,False
+TKT00128,2026-01-02,06:05:00,PAX0028,Hyderabad,Chennai,618,Passenger,General,199.67,Waitlisted,Website,Under 18,Family Visit,False
+TKT00129,2026-06-18,06:32:00,PAX0016,Mumbai,Hyderabad,712,Express,3AC,1213.31,Confirmed,Mobile App,18-25,Work,False
+TKT00130,2026-01-11,10:25:00,PAX0122,Chennai,Bengaluru,345,Passenger,General,147.21,Waitlisted,Mobile App,41-60,Leisure,True
+TKT00131,2026-09-13,12:00:00,PAX0019,Hyderabad,Chennai,640,Vande Bharat,Chair Car,1338.02,Confirmed,Mobile App,26-40,Education,True
+TKT00132,2026-07-05,20:55:00,PAX0079,Delhi,Lucknow,508,Express,Sleeper,289.62,Confirmed,Mobile App,26-40,Family Visit,True
+TKT00133,2026-09-07,16:43:00,PAX0106,Chennai,Bengaluru,335,Express,3AC,542.2,Confirmed,Website,18-25,Family Visit,False
+TKT00134,2026-06-03,17:30:00,PAX0094,Mumbai,Delhi,1374,Express,Sleeper,912.51,Confirmed,Mobile App,60+,Education,False
+TKT00135,2026-01-23,22:59:00,PAX0099,Bengaluru,Chennai,340,Express,3AC,549.87,Confirmed,Mobile App,26-40,Leisure,False
+TKT00136,2026-01-08,10:58:00,PAX0054,Hyderabad,Mumbai,699,Vande Bharat,Chair Car,1454.61,Confirmed,Agent,41-60,Work,False
+TKT00137,2026-04-02,10:58:00,PAX0134,Vijayawada,Hyderabad,336,Rajdhani,3AC,632.52,Confirmed,Agent,41-60,Leisure,False
+TKT00138,2026-07-22,21:15:00,PAX0011,Delhi,Kolkata,1452,Express,General,705.21,Confirmed,Mobile App,26-40,Work,False
+TKT00139,2026-02-11,07:52:00,PAX0017,Kolkata,Chennai,1664,Vande Bharat,Chair Car,3534.0,Confirmed,Mobile App,41-60,Education,False
+TKT00140,2026-08-21,18:30:00,PAX0129,Mumbai,Hyderabad,708,Express,Sleeper,455.57,Confirmed,Website,18-25,Work,False
+TKT00141,2026-03-07,18:43:00,PAX0011,Delhi,Kolkata,1453,Passenger,General,540.01,Confirmed,Station Counter,26-40,Family Visit,True
+TKT00142,2026-05-16,05:51:00,PAX0029,Delhi,Kolkata,1455,Vande Bharat,Executive Chair Car,5678.39,Confirmed,Station Counter,18-25,Education,True
+TKT00143,2026-02-25,12:09:00,PAX0026,Hyderabad,Vijayawada,343,Superfast,3AC,615.72,Confirmed,Mobile App,26-40,Leisure,False
+TKT00144,2026-05-08,06:26:00,PAX0005,Jaipur,Delhi,319,Express,3AC,540.14,Confirmed,Mobile App,18-25,Education,False
+TKT00145,2026-05-04,06:07:00,PAX0018,Delhi,Kolkata,1444,Passenger,Sleeper,726.38,Confirmed,Mobile App,18-25,Work,False
+TKT00146,2026-01-02,12:16:00,PAX0086,Hyderabad,Bengaluru,558,Rajdhani,3AC,1105.86,Confirmed,Station Counter,Under 18,Work,False
+TKT00147,2026-06-05,08:24:00,PAX0100,Delhi,Mumbai,1389,Express,General,612.69,Waitlisted,Station Counter,18-25,Family Visit,False
+TKT00148,2026-08-03,19:51:00,PAX0013,Jaipur,Delhi,310,Express,Sleeper,231.19,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00149,2026-09-13,20:51:00,PAX0142,Kolkata,Delhi,1464,Express,3AC,2348.83,Confirmed,Website,26-40,Work,True
+TKT00150,2026-04-01,19:23:00,PAX0015,Mumbai,Hyderabad,724,Superfast,3AC,1172.61,Confirmed,Mobile App,18-25,Family Visit,False
+TKT00151,2026-08-29,07:19:00,PAX0104,Mumbai,Bengaluru,966,Passenger,General,334.01,Confirmed,Website,60+,Education,True
+TKT00152,2026-08-28,07:31:00,PAX0121,Lucknow,Delhi,492,Vande Bharat,Executive Chair Car,2090.68,Confirmed,Agent,60+,Work,False
+TKT00153,2026-09-27,07:54:00,PAX0079,Chennai,Hyderabad,618,Vande Bharat,Chair Car,1226.29,Waitlisted,Mobile App,18-25,Leisure,True
+TKT00154,2026-04-12,05:58:00,PAX0074,Jaipur,Delhi,310,Rajdhani,1AC,1347.57,Confirmed,Mobile App,26-40,Work,True
+TKT00155,2026-08-21,21:13:00,PAX0017,Mumbai,Hyderabad,721,Vande Bharat,Chair Car,1363.51,Confirmed,Website,26-40,Work,False
+TKT00156,2026-06-04,10:11:00,PAX0037,Pune,Mumbai,138,Express,2AC,415.48,Confirmed,Mobile App,41-60,Leisure,False
+TKT00157,2026-01-16,07:42:00,PAX0128,Bengaluru,Hyderabad,582,Superfast,General,319.46,Confirmed,Station Counter,26-40,Work,False
+TKT00158,2026-03-15,19:18:00,PAX0053,Bengaluru,Chennai,356,Express,Sleeper,222.79,Confirmed,Mobile App,41-60,Family Visit,True
+TKT00159,2026-07-03,10:11:00,PAX0006,Pune,Mumbai,150,Superfast,General,114.01,Confirmed,Station Counter,18-25,Leisure,False
+TKT00160,2026-02-13,03:01:00,PAX0110,Pune,Mumbai,147,Rajdhani,3AC,291.36,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00161,2026-04-29,06:24:00,PAX0103,Mumbai,Hyderabad,703,Passenger,General,275.7,Cancelled,Mobile App,41-60,Leisure,False
+TKT00162,2026-07-31,16:23:00,PAX0010,Delhi,Lucknow,488,Rajdhani,3AC,947.45,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00163,2026-02-10,18:33:00,PAX0008,Bengaluru,Hyderabad,558,Superfast,3AC,1068.93,Cancelled,Mobile App,41-60,Education,False
+TKT00164,2026-05-16,07:12:00,PAX0018,Mumbai,Hyderabad,710,Superfast,2AC,2036.02,Confirmed,Mobile App,Under 18,Leisure,True
+TKT00165,2026-02-28,21:42:00,PAX0008,Jaipur,Delhi,307,Superfast,3AC,620.36,Waitlisted,Website,18-25,Leisure,True
+TKT00166,2026-05-27,19:40:00,PAX0093,Delhi,Mumbai,1378,Express,Sleeper,916.27,Confirmed,Mobile App,Under 18,Family Visit,False
+TKT00167,2026-03-07,19:27:00,PAX0020,Bengaluru,Mumbai,981,Express,Sleeper,671.77,Confirmed,Mobile App,18-25,Work,True
+TKT00168,2026-09-21,07:10:00,PAX0092,Chennai,Kolkata,1653,Superfast,General,794.19,Cancelled,Mobile App,Under 18,Leisure,False
+TKT00169,2026-01-21,03:30:00,PAX0027,Mumbai,Delhi,1393,Express,Sleeper,1129.32,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00170,2026-09-21,20:40:00,PAX0146,Hyderabad,Vijayawada,349,Rajdhani,2AC,1075.74,Waitlisted,Station Counter,26-40,Education,False
+TKT00171,2026-08-05,08:22:00,PAX0109,Bengaluru,Hyderabad,578,Express,General,291.03,Confirmed,Agent,26-40,Family Visit,False
+TKT00172,2026-08-22,16:15:00,PAX0057,Delhi,Jaipur,305,Express,Sleeper,250.82,Confirmed,Mobile App,26-40,Education,True
+TKT00173,2026-08-21,18:30:00,PAX0065,Bengaluru,Hyderabad,570,Vande Bharat,Chair Car,1028.4,Confirmed,Station Counter,Under 18,Work,False
+TKT00174,2026-02-21,05:21:00,PAX0010,Hyderabad,Vijayawada,349,Express,2AC,854.76,Confirmed,Station Counter,26-40,Leisure,True
+TKT00175,2026-09-12,18:24:00,PAX0009,Chennai,Hyderabad,628,Rajdhani,3AC,1332.1,Waitlisted,Agent,18-25,Education,True
+TKT00176,2026-06-12,21:20:00,PAX0081,Mumbai,Hyderabad,696,Vande Bharat,Chair Car,1521.37,Waitlisted,Mobile App,41-60,Work,False
+TKT00177,2026-09-20,18:18:00,PAX0004,Delhi,Kolkata,1437,Express,2AC,3309.08,Confirmed,Mobile App,Under 18,Work,True
+TKT00178,2026-08-28,11:43:00,PAX0096,Vijayawada,Hyderabad,335,Passenger,General,157.86,Confirmed,Mobile App,26-40,Work,False
+TKT00179,2026-06-08,20:27:00,PAX0058,Lucknow,Delhi,489,Passenger,General,243.15,Confirmed,Station Counter,41-60,Family Visit,False
+TKT00180,2026-04-13,14:27:00,PAX0021,Mumbai,Pune,138,Vande Bharat,Chair Car,286.72,Confirmed,Station Counter,26-40,Family Visit,False
+TKT00181,2026-02-02,18:39:00,PAX0081,Lucknow,Delhi,487,Vande Bharat,Chair Car,1053.25,Confirmed,Website,26-40,Leisure,False
+TKT00182,2026-01-28,19:21:00,PAX0083,Delhi,Lucknow,502,Passenger,General,216.71,Confirmed,Mobile App,41-60,Work,False
+TKT00183,2026-04-17,18:06:00,PAX0112,Delhi,Jaipur,310,Passenger,General,128.66,Confirmed,Station Counter,18-25,Leisure,False
+TKT00184,2026-08-10,08:51:00,PAX0030,Delhi,Mumbai,1365,Superfast,General,768.57,Waitlisted,Station Counter,26-40,Family Visit,False
+TKT00185,2026-05-18,05:03:00,PAX0083,Mumbai,Pune,149,Passenger,General,91.33,Confirmed,Mobile App,41-60,Family Visit,False
+TKT00186,2026-05-12,07:34:00,PAX0127,Chennai,Bengaluru,340,Rajdhani,3AC,605.86,Confirmed,Website,60+,Work,False
+TKT00187,2026-03-08,13:15:00,PAX0041,Delhi,Mumbai,1374,Passenger,General,542.51,Confirmed,Mobile App,26-40,Work,True
+TKT00188,2026-06-04,13:12:00,PAX0126,Hyderabad,Mumbai,702,Passenger,General,307.3,Waitlisted,Website,26-40,Family Visit,False
+TKT00189,2026-06-24,15:02:00,PAX0109,Pune,Mumbai,165,Superfast,Sleeper,171.77,Confirmed,Website,41-60,Family Visit,False
+TKT00190,2026-09-26,10:54:00,PAX0065,Hyderabad,Bengaluru,573,Vande Bharat,Chair Car,1228.53,Confirmed,Station Counter,26-40,Work,True
+TKT00191,2026-07-19,18:25:00,PAX0133,Vijayawada,Hyderabad,357,Rajdhani,1AC,1604.3,Confirmed,Agent,18-25,Family Visit,True
+TKT00192,2026-06-15,20:20:00,PAX0146,Bengaluru,Hyderabad,580,Express,Sleeper,440.29,Waitlisted,Mobile App,18-25,Work,False
+TKT00193,2026-09-06,07:44:00,PAX0036,Hyderabad,Mumbai,698,Express,General,336.66,Confirmed,Mobile App,18-25,Work,True
+TKT00194,2026-04-27,18:02:00,PAX0147,Mumbai,Bengaluru,983,Superfast,Sleeper,628.9,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00195,2026-09-13,17:33:00,PAX0001,Chennai,Hyderabad,629,Superfast,Sleeper,420.04,Confirmed,Mobile App,18-25,Leisure,True
+TKT00196,2026-04-12,14:29:00,PAX0020,Chennai,Hyderabad,619,Superfast,3AC,1368.65,Confirmed,Mobile App,Under 18,Education,True
+TKT00197,2026-02-04,06:33:00,PAX0007,Bengaluru,Chennai,357,Express,Sleeper,257.34,Confirmed,Mobile App,18-25,Family Visit,False
+TKT00198,2026-04-25,19:07:00,PAX0056,Lucknow,Delhi,495,Superfast,1AC,2465.61,Confirmed,Mobile App,60+,Family Visit,True
+TKT00199,2026-02-05,22:57:00,PAX0141,Chennai,Hyderabad,630,Passenger,Sleeper,352.14,Confirmed,Mobile App,18-25,Work,False
+TKT00200,2026-02-02,18:14:00,PAX0091,Delhi,Mumbai,1387,Passenger,Sleeper,723.75,Confirmed,Mobile App,18-25,Leisure,False
+TKT00201,2026-08-29,21:40:00,PAX0093,Kolkata,Chennai,1670,Passenger,General,653.89,Confirmed,Station Counter,26-40,Family Visit,True
+TKT00202,2026-08-05,23:44:00,PAX0013,Hyderabad,Vijayawada,344,Vande Bharat,Executive Chair Car,1244.18,Confirmed,Mobile App,18-25,Leisure,False
+TKT00203,2026-03-02,09:20:00,PAX0078,Delhi,Jaipur,302,Passenger,General,134.03,Confirmed,Website,60+,Medical,False
+TKT00204,2026-08-17,16:07:00,PAX0058,Chennai,Hyderabad,613,Vande Bharat,Executive Chair Car,2374.1,Confirmed,Agent,60+,Leisure,False
+TKT00205,2026-01-19,12:17:00,PAX0072,Hyderabad,Mumbai,696,Passenger,General,293.37,Confirmed,Website,26-40,Work,False
+TKT00206,2026-03-19,23:48:00,PAX0040,Hyderabad,Bengaluru,560,Superfast,Sleeper,404.42,Confirmed,Mobile App,26-40,Work,False
+TKT00207,2026-07-12,05:54:00,PAX0031,Hyderabad,Chennai,618,Passenger,General,238.31,Confirmed,Mobile App,26-40,Family Visit,True
+TKT00208,2026-03-24,10:56:00,PAX0143,Pune,Mumbai,135,Express,Sleeper,136.95,Confirmed,Website,Under 18,Medical,False
+TKT00209,2026-07-19,20:13:00,PAX0084,Hyderabad,Mumbai,712,Express,Sleeper,495.17,Cancelled,Website,18-25,Work,True
+TKT00210,2026-08-27,08:36:00,PAX0062,Jaipur,Delhi,313,Superfast,General,184.02,Confirmed,Mobile App,18-25,Work,False
+TKT00211,2026-01-19,18:09:00,PAX0012,Mumbai,Pune,137,Rajdhani,2AC,402.94,Confirmed,Mobile App,18-25,Family Visit,False
+TKT00212,2026-01-07,10:42:00,PAX0115,Chennai,Bengaluru,362,Passenger,Sleeper,224.67,Confirmed,Website,26-40,Work,False
+TKT00213,2026-09-14,22:24:00,PAX0071,Hyderabad,Chennai,615,Express,Sleeper,400.98,Confirmed,Mobile App,18-25,Work,False
+TKT00214,2026-05-23,20:42:00,PAX0059,Chennai,Kolkata,1653,Passenger,General,601.65,Confirmed,Website,18-25,Family Visit,True
+TKT00215,2026-05-19,08:41:00,PAX0101,Mumbai,Pune,139,Express,Sleeper,92.1,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00216,2026-05-07,18:59:00,PAX0020,Mumbai,Pune,144,Vande Bharat,Chair Car,337.08,Waitlisted,Mobile App,26-40,Family Visit,False
+TKT00217,2026-04-29,08:29:00,PAX0080,Hyderabad,Chennai,615,Vande Bharat,Chair Car,1375.25,Confirmed,Station Counter,18-25,Leisure,False
+TKT00218,2026-07-08,16:20:00,PAX0130,Hyderabad,Mumbai,695,Passenger,General,245.57,Confirmed,Mobile App,Under 18,Education,False
+TKT00219,2026-06-08,17:31:00,PAX0070,Vijayawada,Hyderabad,361,Passenger,General,156.14,Confirmed,Website,18-25,Family Visit,False
+TKT00220,2026-02-14,19:09:00,PAX0001,Mumbai,Delhi,1392,Superfast,Sleeper,1120.55,Confirmed,Mobile App,18-25,Work,True
+TKT00221,2026-06-21,01:06:00,PAX0035,Hyderabad,Bengaluru,560,Superfast,3AC,1140.47,Cancelled,Mobile App,41-60,Work,True
+TKT00222,2026-07-02,07:31:00,PAX0009,Kolkata,Delhi,1452,Vande Bharat,Chair Car,3084.48,Confirmed,Agent,60+,Family Visit,False
+TKT00223,2026-02-01,18:49:00,PAX0076,Chennai,Bengaluru,351,Vande Bharat,Chair Car,862.37,Confirmed,Mobile App,26-40,Leisure,True
+TKT00224,2026-04-13,15:31:00,PAX0055,Hyderabad,Vijayawada,357,Superfast,General,223.04,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00225,2026-08-04,13:46:00,PAX0020,Hyderabad,Bengaluru,577,Superfast,3AC,1126.11,Confirmed,Agent,41-60,Work,False
+TKT00226,2026-06-18,04:10:00,PAX0104,Lucknow,Delhi,515,Express,General,241.22,Confirmed,Station Counter,26-40,Medical,False
+TKT00227,2026-02-07,09:26:00,PAX0027,Hyderabad,Mumbai,724,Express,2AC,1543.85,Confirmed,Website,18-25,Leisure,True
+TKT00228,2026-01-11,20:36:00,PAX0052,Delhi,Jaipur,295,Express,2AC,768.93,Waitlisted,Mobile App,18-25,Leisure,True
+TKT00229,2026-06-08,02:20:00,PAX0149,Chennai,Bengaluru,348,Superfast,2AC,944.94,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00230,2026-05-07,10:00:00,PAX0010,Mumbai,Hyderabad,707,Rajdhani,2AC,2128.89,Confirmed,Website,26-40,Education,False
+TKT00231,2026-09-20,21:04:00,PAX0038,Hyderabad,Chennai,630,Superfast,3AC,1172.44,Waitlisted,Mobile App,18-25,Family Visit,True
+TKT00232,2026-05-23,04:55:00,PAX0048,Delhi,Kolkata,1447,Express,Sleeper,1009.97,Waitlisted,Mobile App,18-25,Leisure,True
+TKT00233,2026-09-12,18:36:00,PAX0077,Vijayawada,Hyderabad,346,Express,Sleeper,251.81,Confirmed,Station Counter,18-25,Family Visit,True
+TKT00234,2026-02-28,07:15:00,PAX0037,Bengaluru,Chennai,364,Superfast,3AC,663.68,Confirmed,Mobile App,18-25,Family Visit,True
+TKT00235,2026-05-03,20:15:00,PAX0146,Vijayawada,Hyderabad,363,Vande Bharat,Chair Car,676.09,Confirmed,Mobile App,26-40,Leisure,True
+TKT00236,2026-02-08,18:02:00,PAX0001,Kolkata,Chennai,1671,Superfast,Sleeper,1344.66,Confirmed,Mobile App,26-40,Work,True
+TKT00237,2026-06-06,20:56:00,PAX0143,Kolkata,Delhi,1445,Vande Bharat,Chair Car,3103.21,Waitlisted,Mobile App,26-40,Work,True
+TKT00238,2026-02-21,07:06:00,PAX0081,Kolkata,Chennai,1659,Vande Bharat,Chair Car,3010.95,Confirmed,Website,18-25,Medical,True
+TKT00239,2026-05-15,14:45:00,PAX0006,Hyderabad,Mumbai,715,Express,Sleeper,500.58,Confirmed,Station Counter,18-25,Medical,False
+TKT00240,2026-04-04,18:14:00,PAX0018,Hyderabad,Mumbai,706,Passenger,General,270.36,Waitlisted,Mobile App,41-60,Medical,True
+TKT00241,2026-02-20,07:20:00,PAX0016,Bengaluru,Mumbai,985,Rajdhani,2AC,3153.42,Confirmed,Mobile App,26-40,Work,False
+TKT00242,2026-01-27,07:16:00,PAX0044,Kolkata,Chennai,1667,Superfast,General,856.27,Confirmed,Website,18-25,Education,False
+TKT00243,2026-05-20,02:49:00,PAX0050,Hyderabad,Bengaluru,568,Express,Sleeper,349.75,Confirmed,Mobile App,18-25,Family Visit,False
+TKT00244,2026-09-16,22:01:00,PAX0097,Delhi,Jaipur,298,Rajdhani,3AC,611.63,Confirmed,Website,41-60,Family Visit,False
+TKT00245,2026-02-24,17:21:00,PAX0047,Chennai,Bengaluru,361,Rajdhani,3AC,787.29,Waitlisted,Agent,41-60,Work,False
+TKT00246,2026-04-21,16:16:00,PAX0109,Lucknow,Delhi,509,Superfast,3AC,1005.31,Confirmed,Website,41-60,Leisure,False
+TKT00247,2026-03-03,18:16:00,PAX0045,Bengaluru,Chennai,348,Superfast,2AC,984.59,Confirmed,Mobile App,26-40,Work,False
+TKT00248,2026-08-09,14:11:00,PAX0040,Mumbai,Delhi,1388,Express,Sleeper,971.4,Confirmed,Agent,26-40,Education,True
+TKT00249,2026-04-24,12:54:00,PAX0042,Delhi,Mumbai,1395,Vande Bharat,Executive Chair Car,5338.21,Cancelled,Mobile App,26-40,Work,False
+TKT00250,2026-09-24,12:22:00,PAX0050,Delhi,Kolkata,1446,Superfast,Sleeper,1166.68,Confirmed,Agent,18-25,Work,False
+TKT00251,2026-03-08,16:25:00,PAX0126,Chennai,Bengaluru,354,Express,General,192.67,Cancelled,Website,26-40,Work,True
+TKT00252,2026-01-23,06:23:00,PAX0038,Lucknow,Delhi,497,Passenger,General,207.06,Waitlisted,Website,26-40,Family Visit,False
+TKT00253,2026-06-09,20:58:00,PAX0041,Delhi,Kolkata,1452,Rajdhani,3AC,2786.09,Confirmed,Agent,18-25,Family Visit,False
+TKT00254,2026-06-27,19:20:00,PAX0144,Bengaluru,Hyderabad,573,Vande Bharat,Chair Car,1284.21,Waitlisted,Website,41-60,Family Visit,True
+TKT00255,2026-09-28,09:20:00,PAX0099,Hyderabad,Bengaluru,572,Express,Sleeper,321.11,Confirmed,Mobile App,26-40,Education,False
+TKT00256,2026-08-26,15:19:00,PAX0029,Pune,Mumbai,163,Express,1AC,678.82,Confirmed,Mobile App,Under 18,Education,False
+TKT00257,2026-08-30,06:19:00,PAX0131,Mumbai,Bengaluru,975,Rajdhani,3AC,1995.34,Confirmed,Website,18-25,Education,True
+TKT00258,2026-06-23,22:05:00,PAX0028,Mumbai,Hyderabad,706,Rajdhani,3AC,1507.21,Waitlisted,Website,41-60,Leisure,False
+TKT00259,2026-04-09,20:36:00,PAX0025,Mumbai,Hyderabad,705,Superfast,Sleeper,490.75,Waitlisted,Mobile App,60+,Education,False
+TKT00260,2026-04-28,21:01:00,PAX0067,Chennai,Bengaluru,340,Passenger,General,123.51,Confirmed,Station Counter,26-40,Family Visit,False
+TKT00261,2026-02-06,08:13:00,PAX0104,Chennai,Hyderabad,610,Superfast,Sleeper,392.32,Cancelled,Website,60+,Family Visit,False
+TKT00262,2026-04-28,06:12:00,PAX0029,Mumbai,Bengaluru,994,Superfast,General,566.4,Confirmed,Mobile App,41-60,Family Visit,False
+TKT00263,2026-04-10,07:17:00,PAX0113,Mumbai,Delhi,1379,Express,2AC,3793.51,Waitlisted,Mobile App,41-60,Work,False
+TKT00264,2026-01-10,05:45:00,PAX0024,Hyderabad,Chennai,633,Express,2AC,1374.53,Waitlisted,Mobile App,41-60,Leisure,True
+TKT00265,2026-02-25,05:35:00,PAX0118,Lucknow,Delhi,499,Express,Sleeper,357.08,Confirmed,Mobile App,26-40,Work,False
+TKT00266,2026-05-26,04:59:00,PAX0015,Chennai,Hyderabad,616,Vande Bharat,Chair Car,1349.15,Confirmed,Mobile App,41-60,Work,False
+TKT00267,2026-04-11,23:21:00,PAX0070,Hyderabad,Bengaluru,556,Express,General,285.91,Confirmed,Mobile App,26-40,Family Visit,True
+TKT00268,2026-09-29,04:55:00,PAX0097,Chennai,Hyderabad,624,Express,Sleeper,403.25,Waitlisted,Mobile App,41-60,Leisure,False
+TKT00269,2026-05-11,05:02:00,PAX0040,Mumbai,Hyderabad,695,Superfast,Sleeper,472.74,Confirmed,Mobile App,18-25,Family Visit,False
+TKT00270,2026-09-19,19:30:00,PAX0092,Hyderabad,Mumbai,709,Express,Sleeper,473.37,Confirmed,Website,41-60,Work,True
+TKT00271,2026-06-30,15:47:00,PAX0104,Hyderabad,Mumbai,715,Express,3AC,1233.59,Confirmed,Mobile App,60+,Medical,False
+TKT00272,2026-01-12,18:31:00,PAX0098,Chennai,Hyderabad,625,Superfast,2AC,1513.44,Confirmed,Agent,18-25,Medical,False
+TKT00273,2026-02-25,16:55:00,PAX0060,Mumbai,Hyderabad,699,Superfast,3AC,1394.58,Confirmed,Agent,60+,Education,False
+TKT00274,2026-07-12,20:18:00,PAX0116,Chennai,Bengaluru,344,Passenger,General,124.62,Confirmed,Website,26-40,Family Visit,True
+TKT00275,2026-05-29,16:01:00,PAX0110,Mumbai,Pune,158,Rajdhani,3AC,320.73,Waitlisted,Agent,18-25,Work,False
+TKT00276,2026-03-24,14:46:00,PAX0049,Delhi,Mumbai,1392,Express,Sleeper,1071.91,Confirmed,Station Counter,18-25,Family Visit,False
+TKT00277,2026-05-23,18:04:00,PAX0111,Delhi,Mumbai,1376,Rajdhani,3AC,2617.17,Waitlisted,Mobile App,41-60,Family Visit,True
+TKT00278,2026-09-04,11:45:00,PAX0138,Jaipur,Delhi,324,Rajdhani,2AC,873.43,Confirmed,Station Counter,26-40,Family Visit,False
+TKT00279,2026-04-17,09:44:00,PAX0123,Lucknow,Delhi,514,Vande Bharat,Chair Car,1057.42,Cancelled,Mobile App,18-25,Family Visit,False
+TKT00280,2026-01-13,12:50:00,PAX0110,Bengaluru,Mumbai,974,Passenger,General,428.43,Confirmed,Website,26-40,Education,False
+TKT00281,2026-03-26,06:28:00,PAX0115,Mumbai,Hyderabad,720,Passenger,General,296.55,Confirmed,Website,26-40,Family Visit,False
+TKT00282,2026-09-13,19:53:00,PAX0121,Hyderabad,Chennai,636,Passenger,General,222.06,Confirmed,Mobile App,26-40,Leisure,True
+TKT00283,2026-07-27,07:10:00,PAX0044,Hyderabad,Bengaluru,571,Passenger,General,246.55,Confirmed,Mobile App,41-60,Work,False
+TKT00284,2026-08-17,06:26:00,PAX0109,Bengaluru,Hyderabad,560,Express,Sleeper,347.37,Confirmed,Agent,26-40,Work,False
+TKT00285,2026-09-06,07:07:00,PAX0030,Jaipur,Delhi,298,Rajdhani,1AC,1227.29,Waitlisted,Mobile App,41-60,Family Visit,True
+TKT00286,2026-02-02,19:46:00,PAX0054,Delhi,Mumbai,1391,Passenger,General,539.55,Confirmed,Mobile App,26-40,Leisure,False
+TKT00287,2026-03-19,08:42:00,PAX0141,Hyderabad,Mumbai,717,Vande Bharat,Chair Car,1791.27,Confirmed,Mobile App,60+,Leisure,False
+TKT00288,2026-01-17,17:48:00,PAX0043,Mumbai,Delhi,1374,Superfast,Sleeper,1137.01,Confirmed,Website,18-25,Family Visit,True
+TKT00289,2026-01-02,20:45:00,PAX0127,Jaipur,Delhi,298,Express,Sleeper,234.79,Confirmed,Station Counter,18-25,Leisure,False
+TKT00290,2026-08-16,04:18:00,PAX0064,Hyderabad,Mumbai,718,Superfast,2AC,1645.65,Confirmed,Station Counter,18-25,Education,True
+TKT00291,2026-09-13,18:04:00,PAX0032,Mumbai,Bengaluru,983,Superfast,3AC,2094.1,Confirmed,Mobile App,26-40,Education,True
+TKT00292,2026-02-12,08:55:00,PAX0015,Mumbai,Hyderabad,724,Superfast,General,377.26,Confirmed,Mobile App,26-40,Leisure,False
+TKT00293,2026-07-17,07:29:00,PAX0083,Delhi,Lucknow,507,Superfast,2AC,1407.56,Cancelled,Mobile App,41-60,Family Visit,False
+TKT00294,2026-05-27,17:05:00,PAX0068,Mumbai,Hyderabad,698,Express,3AC,1131.59,Confirmed,Website,26-40,Leisure,False
+TKT00295,2026-01-19,20:55:00,PAX0077,Bengaluru,Mumbai,984,Superfast,2AC,2501.45,Confirmed,Station Counter,Under 18,Leisure,False
+TKT00296,2026-09-07,08:59:00,PAX0007,Lucknow,Delhi,490,Superfast,General,265.13,Confirmed,Station Counter,26-40,Family Visit,False
+TKT00297,2026-08-26,15:26:00,PAX0041,Vijayawada,Hyderabad,340,Rajdhani,3AC,610.8,Confirmed,Mobile App,60+,Family Visit,False
+TKT00298,2026-06-04,08:46:00,PAX0001,Kolkata,Chennai,1652,Express,2AC,4362.75,Confirmed,Website,18-25,Family Visit,False
+TKT00299,2026-07-13,15:02:00,PAX0046,Kolkata,Chennai,1662,Superfast,General,776.53,Cancelled,Mobile App,18-25,Work,False
+TKT00300,2026-04-19,16:05:00,PAX0140,Bengaluru,Chennai,362,Express,Sleeper,230.3,Confirmed,Website,18-25,Family Visit,True
+TKT00301,2026-08-05,16:16:00,PAX0023,Kolkata,Chennai,1667,Superfast,General,886.84,Confirmed,Website,26-40,Leisure,False
+TKT00302,2026-05-02,16:39:00,PAX0104,Chennai,Hyderabad,617,Superfast,Sleeper,429.98,Waitlisted,Website,18-25,Work,True
+TKT00303,2026-09-28,05:08:00,PAX0001,Jaipur,Delhi,296,Passenger,General,115.53,Confirmed,Website,26-40,Leisure,False
+TKT00304,2026-01-18,17:02:00,PAX0085,Delhi,Jaipur,324,Rajdhani,2AC,1124.07,Waitlisted,Agent,26-40,Family Visit,True
+TKT00305,2026-02-16,17:40:00,PAX0139,Bengaluru,Mumbai,975,Express,3AC,1703.64,Confirmed,Mobile App,26-40,Leisure,False
+TKT00306,2026-09-22,17:46:00,PAX0052,Kolkata,Delhi,1451,Passenger,General,613.63,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00307,2026-03-20,04:44:00,PAX0030,Delhi,Mumbai,1377,Express,3AC,2479.03,Cancelled,Mobile App,Under 18,Work,False
+TKT00308,2026-03-26,11:47:00,PAX0086,Bengaluru,Chennai,351,Express,Sleeper,289.88,Waitlisted,Website,60+,Work,False
+TKT00309,2026-08-05,10:48:00,PAX0042,Bengaluru,Hyderabad,566,Superfast,Sleeper,383.56,Waitlisted,Website,26-40,Education,False
+TKT00310,2026-02-21,05:36:00,PAX0134,Hyderabad,Chennai,613,Express,Sleeper,412.98,Confirmed,Website,18-25,Education,True
+TKT00311,2026-05-21,07:31:00,PAX0128,Kolkata,Delhi,1460,Passenger,General,471.33,Waitlisted,Station Counter,18-25,Leisure,False
+TKT00312,2026-03-20,11:51:00,PAX0098,Mumbai,Delhi,1394,Passenger,General,575.49,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00313,2026-02-24,18:20:00,PAX0096,Hyderabad,Bengaluru,584,Vande Bharat,Chair Car,1271.83,Confirmed,Website,41-60,Family Visit,False
+TKT00314,2026-09-21,07:05:00,PAX0091,Mumbai,Delhi,1371,Superfast,General,634.18,Confirmed,Station Counter,Under 18,Work,False
+TKT00315,2026-02-24,19:45:00,PAX0111,Mumbai,Delhi,1376,Passenger,General,561.33,Confirmed,Mobile App,18-25,Education,False
+TKT00316,2026-01-26,14:16:00,PAX0070,Delhi,Mumbai,1368,Superfast,3AC,2465.67,Confirmed,Mobile App,18-25,Work,False
+TKT00317,2026-07-03,18:58:00,PAX0146,Mumbai,Delhi,1393,Express,3AC,2336.19,Confirmed,Mobile App,26-40,Leisure,False
+TKT00318,2026-08-25,12:24:00,PAX0052,Pune,Mumbai,153,Express,Sleeper,130.77,Confirmed,Mobile App,60+,Work,False
+TKT00319,2026-02-04,13:51:00,PAX0002,Bengaluru,Hyderabad,571,Passenger,General,239.1,Waitlisted,Station Counter,26-40,Leisure,False
+TKT00320,2026-07-13,16:02:00,PAX0105,Vijayawada,Hyderabad,351,Rajdhani,3AC,759.0,Cancelled,Agent,26-40,Family Visit,False
+TKT00321,2026-05-28,21:39:00,PAX0100,Delhi,Lucknow,489,Express,Sleeper,394.2,Confirmed,Website,41-60,Leisure,False
+TKT00322,2026-08-15,13:26:00,PAX0148,Delhi,Kolkata,1460,Superfast,General,812.03,Cancelled,Mobile App,41-60,Work,True
+TKT00323,2026-02-04,14:27:00,PAX0060,Mumbai,Delhi,1391,Vande Bharat,Executive Chair Car,5771.69,Confirmed,Website,18-25,Education,False
+TKT00324,2026-09-24,16:15:00,PAX0064,Delhi,Jaipur,299,Vande Bharat,Chair Car,636.16,Confirmed,Station Counter,18-25,Leisure,False
+TKT00325,2026-06-19,18:58:00,PAX0085,Mumbai,Bengaluru,982,Superfast,General,477.04,Waitlisted,Mobile App,26-40,Leisure,False
+TKT00326,2026-08-18,04:23:00,PAX0059,Bengaluru,Chennai,336,Passenger,Sleeper,162.04,Confirmed,Station Counter,41-60,Work,False
+TKT00327,2026-04-09,13:51:00,PAX0118,Kolkata,Chennai,1665,Passenger,General,639.61,Confirmed,Mobile App,41-60,Family Visit,False
+TKT00328,2026-09-15,12:25:00,PAX0065,Delhi,Jaipur,314,Vande Bharat,Chair Car,710.91,Confirmed,Mobile App,26-40,Leisure,False
+TKT00329,2026-06-20,21:02:00,PAX0118,Chennai,Bengaluru,360,Express,3AC,630.97,Confirmed,Mobile App,41-60,Education,True
+TKT00330,2026-02-04,13:52:00,PAX0064,Hyderabad,Bengaluru,561,Rajdhani,3AC,1128.98,Waitlisted,Mobile App,18-25,Work,False
+TKT00331,2026-09-09,12:11:00,PAX0034,Pune,Mumbai,143,Express,Sleeper,81.19,Confirmed,Station Counter,26-40,Education,False
+TKT00332,2026-08-06,22:16:00,PAX0149,Chennai,Hyderabad,629,Vande Bharat,Chair Car,1227.39,Confirmed,Mobile App,Under 18,Education,False
+TKT00333,2026-03-23,12:51:00,PAX0079,Mumbai,Pune,143,Express,2AC,315.58,Confirmed,Mobile App,41-60,Work,False
+TKT00334,2026-05-29,06:53:00,PAX0107,Mumbai,Bengaluru,973,Express,1AC,4043.91,Confirmed,Mobile App,26-40,Leisure,False
+TKT00335,2026-04-16,07:55:00,PAX0089,Chennai,Hyderabad,634,Express,2AC,1585.71,Confirmed,Mobile App,18-25,Education,False
+TKT00336,2026-05-29,05:25:00,PAX0054,Bengaluru,Chennai,338,Superfast,Sleeper,204.31,Cancelled,Mobile App,18-25,Family Visit,False
+TKT00337,2026-09-21,00:45:00,PAX0146,Hyderabad,Mumbai,710,Superfast,Sleeper,472.38,Confirmed,Mobile App,41-60,Family Visit,False
+TKT00338,2026-09-03,11:19:00,PAX0056,Mumbai,Pune,147,Express,3AC,228.96,Waitlisted,Website,41-60,Work,False
+TKT00339,2026-02-28,18:44:00,PAX0149,Mumbai,Hyderabad,707,Superfast,3AC,1406.7,Confirmed,Mobile App,26-40,Work,True
+TKT00340,2026-09-23,18:30:00,PAX0065,Vijayawada,Hyderabad,357,Superfast,General,217.84,Waitlisted,Station Counter,18-25,Family Visit,False
+TKT00341,2026-04-30,02:03:00,PAX0004,Hyderabad,Chennai,630,Vande Bharat,Executive Chair Car,2338.51,Confirmed,Mobile App,60+,Medical,False
+TKT00342,2026-07-12,15:25:00,PAX0006,Vijayawada,Hyderabad,353,Rajdhani,1AC,1732.94,Confirmed,Station Counter,41-60,Family Visit,True
+TKT00343,2026-07-28,06:28:00,PAX0147,Kolkata,Chennai,1661,Passenger,Sleeper,852.74,Confirmed,Station Counter,26-40,Work,False
+TKT00344,2026-05-12,21:15:00,PAX0080,Bengaluru,Chennai,345,Express,General,198.58,Confirmed,Mobile App,26-40,Work,False
+TKT00345,2026-05-05,06:22:00,PAX0059,Kolkata,Chennai,1675,Express,3AC,2591.24,Waitlisted,Mobile App,60+,Work,False
+TKT00346,2026-05-05,16:30:00,PAX0122,Chennai,Kolkata,1671,Rajdhani,3AC,4165.1,Confirmed,Agent,60+,Family Visit,False
+TKT00347,2026-08-24,08:02:00,PAX0093,Vijayawada,Hyderabad,343,Express,Sleeper,267.03,Cancelled,Website,26-40,Leisure,False
+TKT00348,2026-04-16,16:09:00,PAX0100,Hyderabad,Bengaluru,582,Superfast,3AC,1080.89,Confirmed,Website,26-40,Leisure,False
+TKT00349,2026-03-18,10:46:00,PAX0103,Chennai,Bengaluru,349,Rajdhani,3AC,621.53,Confirmed,Mobile App,26-40,Leisure,False
+TKT00350,2026-04-09,18:21:00,PAX0030,Hyderabad,Mumbai,711,Rajdhani,3AC,1599.29,Confirmed,Mobile App,41-60,Work,False
+TKT00351,2026-02-23,07:36:00,PAX0014,Bengaluru,Chennai,346,Superfast,General,180.45,Confirmed,Website,26-40,Leisure,False
+TKT00352,2026-04-17,20:33:00,PAX0110,Chennai,Hyderabad,639,Passenger,General,226.99,Confirmed,Station Counter,18-25,Work,False
+TKT00353,2026-02-01,13:33:00,PAX0004,Delhi,Jaipur,307,Superfast,General,139.05,Confirmed,Mobile App,18-25,Leisure,True
+TKT00354,2026-01-25,18:24:00,PAX0108,Delhi,Jaipur,307,Vande Bharat,Executive Chair Car,1235.52,Cancelled,Station Counter,60+,Family Visit,True
+TKT00355,2026-07-17,19:28:00,PAX0020,Delhi,Kolkata,1453,Express,2AC,3258.48,Confirmed,Website,41-60,Leisure,False
+TKT00356,2026-01-22,23:49:00,PAX0040,Delhi,Jaipur,310,Express,2AC,737.5,Confirmed,Mobile App,60+,Education,False
+TKT00357,2026-06-05,07:57:00,PAX0107,Pune,Mumbai,140,Passenger,General,60.0,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00358,2026-08-01,08:15:00,PAX0094,Chennai,Kolkata,1665,Express,2AC,3938.91,Confirmed,Mobile App,41-60,Family Visit,True
+TKT00359,2026-07-17,07:40:00,PAX0118,Jaipur,Delhi,309,Passenger,General,116.55,Confirmed,Mobile App,41-60,Work,False
+TKT00360,2026-05-02,07:58:00,PAX0092,Bengaluru,Chennai,348,Superfast,General,188.43,Confirmed,Website,18-25,Work,True
+TKT00361,2026-02-22,15:00:00,PAX0008,Vijayawada,Hyderabad,345,Rajdhani,3AC,750.29,Confirmed,Mobile App,18-25,Leisure,True
+TKT00362,2026-09-12,23:47:00,PAX0126,Hyderabad,Mumbai,715,Vande Bharat,Chair Car,1482.64,Confirmed,Mobile App,60+,Work,True
+TKT00363,2026-08-16,23:29:00,PAX0033,Hyderabad,Mumbai,704,Superfast,2AC,1870.55,Confirmed,Website,Under 18,Work,True
+TKT00364,2026-06-17,14:58:00,PAX0021,Mumbai,Hyderabad,695,Vande Bharat,Chair Car,1339.59,Confirmed,Website,26-40,Work,False
+TKT00365,2026-01-24,16:34:00,PAX0132,Bengaluru,Chennai,340,Express,3AC,613.57,Confirmed,Website,26-40,Work,True
+TKT00366,2026-01-10,20:50:00,PAX0030,Delhi,Kolkata,1459,Superfast,2AC,3992.06,Confirmed,Website,41-60,Education,True
+TKT00367,2026-03-28,21:09:00,PAX0081,Chennai,Kolkata,1673,Express,Sleeper,1151.88,Confirmed,Mobile App,18-25,Leisure,True
+TKT00368,2026-02-13,07:08:00,PAX0073,Pune,Mumbai,155,Vande Bharat,Chair Car,358.73,Confirmed,Website,41-60,Work,False
+TKT00369,2026-08-23,14:55:00,PAX0116,Mumbai,Delhi,1388,Vande Bharat,Chair Car,3128.1,Waitlisted,Mobile App,18-25,Family Visit,True
+TKT00370,2026-02-26,19:31:00,PAX0007,Lucknow,Delhi,489,Rajdhani,3AC,1009.52,Confirmed,Mobile App,41-60,Work,False
+TKT00371,2026-03-19,08:33:00,PAX0017,Mumbai,Pune,163,Rajdhani,3AC,369.42,Confirmed,Mobile App,18-25,Work,False
+TKT00372,2026-09-24,11:10:00,PAX0063,Bengaluru,Hyderabad,583,Rajdhani,3AC,1249.49,Confirmed,Website,41-60,Work,False
+TKT00373,2026-08-12,23:13:00,PAX0071,Delhi,Mumbai,1381,Express,Sleeper,957.91,Confirmed,Website,41-60,Family Visit,False
+TKT00374,2026-03-01,23:49:00,PAX0119,Delhi,Mumbai,1386,Rajdhani,3AC,2681.02,Confirmed,Mobile App,18-25,Medical,True
+TKT00375,2026-04-15,20:18:00,PAX0091,Hyderabad,Chennai,633,Superfast,Sleeper,517.99,Waitlisted,Station Counter,18-25,Education,False
+TKT00376,2026-05-21,19:35:00,PAX0023,Hyderabad,Chennai,617,Superfast,Sleeper,467.93,Waitlisted,Station Counter,41-60,Work,False
+TKT00377,2026-07-01,07:18:00,PAX0147,Vijayawada,Hyderabad,357,Superfast,3AC,671.38,Confirmed,Mobile App,18-25,Work,False
+TKT00378,2026-09-13,08:15:00,PAX0069,Kolkata,Delhi,1465,Superfast,Sleeper,1026.58,Confirmed,Website,18-25,Work,True
+TKT00379,2026-08-26,14:09:00,PAX0145,Delhi,Mumbai,1381,Express,2AC,3743.91,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00380,2026-09-24,15:55:00,PAX0149,Pune,Mumbai,135,Express,General,78.45,Confirmed,Agent,60+,Work,False
+TKT00381,2026-01-12,13:56:00,PAX0008,Delhi,Jaipur,324,Express,3AC,520.85,Confirmed,Mobile App,26-40,Medical,False
+TKT00382,2026-03-06,16:06:00,PAX0076,Vijayawada,Hyderabad,353,Superfast,General,190.85,Confirmed,Mobile App,26-40,Leisure,False
+TKT00383,2026-06-03,10:21:00,PAX0064,Kolkata,Chennai,1671,Rajdhani,3AC,3601.14,Confirmed,Mobile App,60+,Leisure,False
+TKT00384,2026-01-14,18:33:00,PAX0075,Kolkata,Delhi,1461,Passenger,General,530.53,Confirmed,Mobile App,26-40,Family Visit,False
+TKT00385,2026-04-08,08:22:00,PAX0047,Delhi,Mumbai,1386,Superfast,2AC,3171.14,Confirmed,Website,26-40,Work,False
+TKT00386,2026-02-11,08:43:00,PAX0084,Hyderabad,Vijayawada,350,Superfast,2AC,870.27,Confirmed,Website,26-40,Family Visit,False
+TKT00387,2026-09-12,05:15:00,PAX0074,Pune,Mumbai,160,Superfast,General,127.43,Confirmed,Mobile App,18-25,Work,True
+TKT00388,2026-01-18,06:03:00,PAX0028,Hyderabad,Vijayawada,342,Express,Sleeper,211.06,Confirmed,Website,18-25,Family Visit,True
+TKT00389,2026-02-10,19:20:00,PAX0044,Hyderabad,Mumbai,704,Vande Bharat,Executive Chair Car,2733.45,Confirmed,Station Counter,41-60,Leisure,False
+TKT00390,2026-02-23,11:35:00,PAX0023,Bengaluru,Mumbai,991,Express,3AC,1694.05,Confirmed,Station Counter,Under 18,Work,False
+TKT00391,2026-02-10,07:10:00,PAX0127,Chennai,Bengaluru,365,Passenger,General,126.18,Waitlisted,Website,41-60,Family Visit,False
+TKT00392,2026-06-05,18:48:00,PAX0102,Hyderabad,Mumbai,718,Vande Bharat,Chair Car,1489.04,Confirmed,Mobile App,18-25,Work,False
+TKT00393,2026-04-10,15:00:00,PAX0059,Bengaluru,Chennai,354,Superfast,General,177.4,Confirmed,Mobile App,26-40,Work,False
+TKT00394,2026-09-07,01:04:00,PAX0060,Pune,Mumbai,149,Vande Bharat,Chair Car,304.34,Confirmed,Station Counter,18-25,Family Visit,False
+TKT00395,2026-03-13,08:30:00,PAX0012,Hyderabad,Mumbai,714,Express,General,329.88,Confirmed,Station Counter,26-40,Education,False
+TKT00396,2026-05-27,06:30:00,PAX0044,Kolkata,Delhi,1443,Rajdhani,2AC,4276.59,Confirmed,Website,41-60,Family Visit,False
+TKT00397,2026-06-30,17:17:00,PAX0139,Bengaluru,Mumbai,976,Vande Bharat,Chair Car,2155.73,Waitlisted,Station Counter,26-40,Leisure,False
+TKT00398,2026-06-20,07:15:00,PAX0005,Bengaluru,Hyderabad,567,Vande Bharat,Chair Car,1303.52,Confirmed,Mobile App,18-25,Leisure,True
+TKT00399,2026-08-06,04:04:00,PAX0022,Delhi,Kolkata,1444,Passenger,Sleeper,826.43,Waitlisted,Website,18-25,Work,False
+TKT00400,2026-02-25,04:39:00,PAX0127,Kolkata,Delhi,1461,Vande Bharat,Chair Car,3288.68,Confirmed,Mobile App,41-60,Work,False
+TKT00401,2026-05-19,15:22:00,PAX0079,Bengaluru,Hyderabad,556,Rajdhani,3AC,1222.33,Confirmed,Mobile App,18-25,Medical,False
+TKT00402,2026-08-07,01:07:00,PAX0005,Delhi,Lucknow,495,Superfast,3AC,826.13,Confirmed,Website,41-60,Work,False
+TKT00403,2026-08-24,19:23:00,PAX0074,Kolkata,Chennai,1652,Vande Bharat,Chair Car,3574.64,Confirmed,Mobile App,26-40,Leisure,False
+TKT00404,2026-06-18,06:56:00,PAX0113,Hyderabad,Mumbai,699,Vande Bharat,Chair Car,1613.16,Confirmed,Agent,18-25,Work,False
+TKT00405,2026-06-27,16:15:00,PAX0052,Vijayawada,Hyderabad,338,Superfast,Sleeper,243.57,Confirmed,Mobile App,41-60,Work,True
+TKT00406,2026-08-24,11:53:00,PAX0058,Delhi,Lucknow,497,Rajdhani,3AC,1051.18,Confirmed,Station Counter,26-40,Leisure,False
+TKT00407,2026-06-20,11:15:00,PAX0095,Bengaluru,Hyderabad,584,Superfast,Sleeper,415.18,Confirmed,Station Counter,Under 18,Family Visit,True
+TKT00408,2026-09-17,04:11:00,PAX0090,Mumbai,Bengaluru,969,Superfast,Sleeper,733.63,Confirmed,Website,60+,Family Visit,False
+TKT00409,2026-02-04,19:15:00,PAX0136,Hyderabad,Mumbai,722,Express,General,316.75,Confirmed,Agent,18-25,Family Visit,False
+TKT00410,2026-04-05,20:19:00,PAX0038,Hyderabad,Vijayawada,363,Express,Sleeper,261.46,Confirmed,Mobile App,26-40,Work,True
+TKT00411,2026-01-31,00:07:00,PAX0042,Pune,Mumbai,164,Vande Bharat,Executive Chair Car,754.85,Confirmed,Mobile App,26-40,Education,True
+TKT00412,2026-01-25,06:35:00,PAX0024,Chennai,Bengaluru,339,Superfast,General,203.38,Confirmed,Mobile App,26-40,Work,True
+TKT00413,2026-05-09,20:20:00,PAX0100,Mumbai,Hyderabad,709,Superfast,Sleeper,508.66,Confirmed,Mobile App,41-60,Family Visit,True
+TKT00414,2026-03-03,14:43:00,PAX0081,Delhi,Lucknow,512,Express,2AC,1220.35,Confirmed,Station Counter,Under 18,Work,False
+TKT00415,2026-04-22,06:29:00,PAX0053,Mumbai,Hyderabad,717,Superfast,3AC,1309.64,Confirmed,Website,60+,Leisure,False
+TKT00416,2026-04-30,06:26:00,PAX0105,Bengaluru,Hyderabad,580,Vande Bharat,Chair Car,1204.6,Confirmed,Mobile App,26-40,Work,False
+TKT00417,2026-06-19,17:28:00,PAX0057,Chennai,Hyderabad,625,Rajdhani,3AC,1388.66,Confirmed,Mobile App,60+,Family Visit,False
+TKT00418,2026-09-16,18:09:00,PAX0030,Kolkata,Chennai,1662,Express,Sleeper,1085.5,Confirmed,Website,41-60,Family Visit,False
+TKT00419,2026-08-20,16:42:00,PAX0081,Hyderabad,Chennai,634,Superfast,Sleeper,393.13,Confirmed,Station Counter,60+,Family Visit,False
+TKT00420,2026-04-14,21:06:00,PAX0066,Delhi,Lucknow,505,Superfast,3AC,1047.75,Confirmed,Mobile App,26-40,Work,False
+TKT00421,2026-03-30,13:43:00,PAX0061,Chennai,Bengaluru,335,Passenger,Sleeper,193.5,Confirmed,Station Counter,26-40,Medical,False
+TKT00422,2026-07-30,08:59:00,PAX0067,Mumbai,Hyderabad,711,Superfast,2AC,1764.61,Waitlisted,Website,26-40,Work,False
+TKT00423,2026-02-03,12:45:00,PAX0138,Hyderabad,Mumbai,698,Superfast,2AC,1850.19,Waitlisted,Station Counter,26-40,Work,False
+TKT00424,2026-05-28,09:27:00,PAX0033,Mumbai,Hyderabad,725,Superfast,General,407.09,Confirmed,Mobile App,26-40,Work,False
+TKT00425,2026-04-26,07:18:00,PAX0042,Bengaluru,Chennai,340,Passenger,General,136.69,Confirmed,Website,41-60,Work,True
+TKT00426,2026-02-19,03:52:00,PAX0085,Chennai,Kolkata,1658,Superfast,Sleeper,1200.56,Confirmed,Mobile App,18-25,Leisure,False
+TKT00427,2026-06-18,09:15:00,PAX0008,Hyderabad,Bengaluru,578,Superfast,General,303.85,Waitlisted,Mobile App,41-60,Work,False
+TKT00428,2026-03-29,17:28:00,PAX0022,Bengaluru,Mumbai,975,Vande Bharat,Chair Car,2061.45,Confirmed,Station Counter,18-25,Education,True
+TKT00429,2026-02-20,01:46:00,PAX0085,Hyderabad,Mumbai,723,Vande Bharat,Chair Car,1500.11,Confirmed,Website,60+,Leisure,False
+TKT00430,2026-06-28,11:55:00,PAX0077,Chennai,Kolkata,1670,Superfast,3AC,3101.57,Confirmed,Mobile App,18-25,Family Visit,True
+TKT00431,2026-02-17,16:55:00,PAX0098,Vijayawada,Hyderabad,342,Vande Bharat,Executive Chair Car,1460.11,Confirmed,Station Counter,18-25,Leisure,False
+TKT00432,2026-07-03,16:05:00,PAX0018,Mumbai,Pune,158,Vande Bharat,Chair Car,365.42,Confirmed,Mobile App,41-60,Leisure,False
+TKT00433,2026-02-14,18:53:00,PAX0129,Pune,Mumbai,141,Express,3AC,283.22,Waitlisted,Website,41-60,Work,True
+TKT00434,2026-04-29,19:06:00,PAX0073,Mumbai,Bengaluru,992,Passenger,General,388.54,Waitlisted,Agent,41-60,Family Visit,False
+TKT00435,2026-08-09,17:35:00,PAX0024,Hyderabad,Mumbai,723,Express,Sleeper,546.0,Confirmed,Website,60+,Work,True
+TKT00436,2026-03-04,05:55:00,PAX0047,Chennai,Hyderabad,612,Vande Bharat,Chair Car,1300.38,Confirmed,Station Counter,18-25,Work,False
+TKT00437,2026-07-29,12:39:00,PAX0035,Hyderabad,Mumbai,703,Express,2AC,1658.76,Confirmed,Website,41-60,Work,False
+TKT00438,2026-07-17,16:56:00,PAX0068,Jaipur,Delhi,297,Passenger,Sleeper,151.28,Confirmed,Station Counter,26-40,Leisure,False
+TKT00439,2026-09-04,07:20:00,PAX0071,Pune,Mumbai,137,Express,Sleeper,115.14,Confirmed,Website,26-40,Education,False
+TKT00440,2026-02-16,03:18:00,PAX0066,Chennai,Bengaluru,348,Superfast,Sleeper,273.5,Confirmed,Website,26-40,Leisure,False
+TKT00441,2026-07-15,07:19:00,PAX0070,Mumbai,Bengaluru,975,Rajdhani,3AC,1849.95,Waitlisted,Mobile App,Under 18,Education,False
+TKT00442,2026-09-13,12:21:00,PAX0137,Hyderabad,Chennai,630,Superfast,Sleeper,567.69,Cancelled,Station Counter,26-40,Education,True
+TKT00443,2026-07-28,10:40:00,PAX0144,Pune,Mumbai,135,Rajdhani,3AC,271.48,Confirmed,Mobile App,41-60,Education,False
+TKT00444,2026-02-21,06:27:00,PAX0074,Hyderabad,Chennai,614,Rajdhani,2AC,1970.77,Confirmed,Agent,18-25,Work,True
+TKT00445,2026-08-13,19:44:00,PAX0145,Hyderabad,Bengaluru,572,Rajdhani,2AC,1724.5,Confirmed,Mobile App,60+,Education,False
+TKT00446,2026-01-30,21:24:00,PAX0123,Mumbai,Pune,151,Express,3AC,293.87,Confirmed,Mobile App,26-40,Leisure,False
+TKT00447,2026-06-10,06:18:00,PAX0123,Vijayawada,Hyderabad,348,Vande Bharat,Chair Car,722.0,Confirmed,Station Counter,18-25,Leisure,False
+TKT00448,2026-05-16,21:11:00,PAX0034,Chennai,Bengaluru,347,Express,Sleeper,220.6,Confirmed,Mobile App,26-40,Work,True
+TKT00449,2026-05-25,01:33:00,PAX0066,Mumbai,Hyderabad,705,Superfast,Sleeper,540.53,Confirmed,Mobile App,18-25,Leisure,False
+TKT00450,2026-05-22,21:53:00,PAX0053,Chennai,Bengaluru,358,Rajdhani,1AC,1972.79,Waitlisted,Station Counter,18-25,Work,False
+TKT00451,2026-01-09,21:51:00,PAX0015,Hyderabad,Mumbai,717,Passenger,General,279.9,Confirmed,Mobile App,41-60,Work,False
+TKT00452,2026-05-19,00:15:00,PAX0012,Lucknow,Delhi,499,Superfast,General,265.15,Confirmed,Mobile App,18-25,Work,False
+TKT00453,2026-09-13,18:28:00,PAX0094,Pune,Mumbai,154,Superfast,General,132.94,Confirmed,Website,18-25,Education,True
+TKT00454,2026-04-30,22:42:00,PAX0064,Hyderabad,Chennai,616,Vande Bharat,Chair Car,1192.4,Cancelled,Mobile App,41-60,Work,False
+TKT00455,2026-03-17,20:36:00,PAX0124,Mumbai,Hyderabad,718,Passenger,Sleeper,431.02,Confirmed,Mobile App,18-25,Leisure,False
+TKT00456,2026-09-29,22:04:00,PAX0101,Chennai,Hyderabad,612,Superfast,3AC,1020.49,Confirmed,Mobile App,41-60,Work,False
+TKT00457,2026-01-28,14:35:00,PAX0013,Vijayawada,Hyderabad,336,Rajdhani,3AC,666.34,Confirmed,Mobile App,41-60,Family Visit,False
+TKT00458,2026-05-13,04:02:00,PAX0126,Kolkata,Delhi,1460,Express,Sleeper,846.87,Confirmed,Mobile App,18-25,Work,False
+TKT00459,2026-05-20,19:06:00,PAX0075,Kolkata,Chennai,1671,Express,Sleeper,1026.3,Cancelled,Mobile App,26-40,Leisure,False
+TKT00460,2026-05-11,16:39:00,PAX0085,Chennai,Bengaluru,339,Passenger,General,158.05,Confirmed,Website,18-25,Family Visit,False
+TKT00461,2026-09-09,16:06:00,PAX0145,Jaipur,Delhi,323,Rajdhani,3AC,699.73,Waitlisted,Website,26-40,Education,False
+TKT00462,2026-04-26,11:20:00,PAX0097,Hyderabad,Chennai,622,Express,2AC,1618.08,Confirmed,Mobile App,18-25,Work,True
+TKT00463,2026-09-23,15:35:00,PAX0004,Hyderabad,Vijayawada,364,Express,1AC,1318.12,Confirmed,Mobile App,60+,Leisure,False
+TKT00464,2026-01-19,06:39:00,PAX0027,Bengaluru,Hyderabad,582,Express,3AC,853.59,Confirmed,Station Counter,18-25,Medical,False
+TKT00465,2026-07-20,18:26:00,PAX0064,Bengaluru,Chennai,349,Vande Bharat,Chair Car,659.29,Confirmed,Website,41-60,Medical,False
+TKT00466,2026-06-11,04:05:00,PAX0006,Pune,Mumbai,155,Express,2AC,461.53,Confirmed,Mobile App,18-25,Work,False
+TKT00467,2026-03-07,18:47:00,PAX0026,Chennai,Bengaluru,335,Superfast,3AC,662.24,Confirmed,Website,18-25,Family Visit,True
+TKT00468,2026-03-04,19:56:00,PAX0119,Hyderabad,Vijayawada,352,Rajdhani,3AC,719.09,Confirmed,Mobile App,26-40,Education,False
+TKT00469,2026-07-16,12:53:00,PAX0022,Hyderabad,Chennai,621,Express,Sleeper,410.51,Waitlisted,Station Counter,26-40,Work,False
+TKT00470,2026-06-24,13:44:00,PAX0026,Jaipur,Delhi,317,Superfast,Sleeper,204.68,Cancelled,Agent,60+,Leisure,False
+TKT00471,2026-06-16,08:24:00,PAX0076,Mumbai,Delhi,1393,Superfast,Sleeper,914.11,Confirmed,Agent,Under 18,Leisure,False
+TKT00472,2026-01-14,22:52:00,PAX0014,Kolkata,Delhi,1453,Vande Bharat,Executive Chair Car,5517.7,Confirmed,Mobile App,Under 18,Leisure,False
+TKT00473,2026-06-13,18:29:00,PAX0039,Mumbai,Hyderabad,703,Superfast,2AC,1689.16,Waitlisted,Mobile App,26-40,Family Visit,True
+TKT00474,2026-09-25,09:08:00,PAX0141,Hyderabad,Chennai,622,Superfast,2AC,1471.06,Confirmed,Mobile App,26-40,Education,False
+TKT00475,2026-01-05,06:51:00,PAX0095,Hyderabad,Bengaluru,565,Express,Sleeper,415.96,Waitlisted,Mobile App,41-60,Leisure,False
+TKT00476,2026-05-09,07:19:00,PAX0145,Bengaluru,Hyderabad,572,Vande Bharat,Executive Chair Car,2508.19,Confirmed,Mobile App,60+,Education,True
+TKT00477,2026-05-15,12:56:00,PAX0054,Kolkata,Delhi,1439,Vande Bharat,Chair Car,3075.87,Confirmed,Website,41-60,Work,False
+TKT00478,2026-09-02,21:22:00,PAX0093,Bengaluru,Chennai,351,Express,Sleeper,214.36,Confirmed,Mobile App,18-25,Education,False
+TKT00479,2026-03-19,18:52:00,PAX0036,Chennai,Bengaluru,354,Superfast,2AC,978.76,Confirmed,Agent,26-40,Medical,False
+TKT00480,2026-05-10,07:32:00,PAX0057,Mumbai,Delhi,1385,Rajdhani,3AC,2751.91,Confirmed,Mobile App,41-60,Education,True
+TKT00481,2026-07-15,20:28:00,PAX0027,Mumbai,Delhi,1365,Express,3AC,2291.84,Confirmed,Mobile App,18-25,Work,False
+TKT00482,2026-01-17,09:17:00,PAX0125,Hyderabad,Chennai,616,Express,Sleeper,381.47,Waitlisted,Station Counter,26-40,Leisure,True
+TKT00483,2026-08-07,19:50:00,PAX0028,Chennai,Bengaluru,359,Superfast,3AC,595.42,Cancelled,Station Counter,18-25,Medical,False
+TKT00484,2026-08-13,07:03:00,PAX0031,Delhi,Mumbai,1370,Superfast,Sleeper,916.77,Confirmed,Mobile App,18-25,Family Visit,False
+TKT00485,2026-07-16,16:28:00,PAX0070,Mumbai,Hyderabad,720,Express,Sleeper,491.49,Confirmed,Website,41-60,Leisure,False
+TKT00486,2026-06-26,21:22:00,PAX0065,Delhi,Kolkata,1449,Superfast,Sleeper,942.64,Confirmed,Mobile App,18-25,Education,False
+TKT00487,2026-07-24,07:32:00,PAX0048,Kolkata,Delhi,1445,Express,General,783.41,Confirmed,Mobile App,60+,Leisure,False
+TKT00488,2026-08-02,17:15:00,PAX0054,Hyderabad,Bengaluru,561,Superfast,Sleeper,451.42,Confirmed,Website,18-25,Family Visit,True
+TKT00489,2026-09-04,23:39:00,PAX0045,Jaipur,Delhi,304,Passenger,General,155.06,Waitlisted,Mobile App,Under 18,Family Visit,False
+TKT00490,2026-04-27,06:23:00,PAX0137,Jaipur,Delhi,316,Superfast,Sleeper,198.42,Confirmed,Website,18-25,Family Visit,False
+TKT00491,2026-05-05,05:11:00,PAX0088,Pune,Mumbai,147,Express,General,104.93,Confirmed,Mobile App,18-25,Education,False
+TKT00492,2026-06-24,17:11:00,PAX0138,Bengaluru,Chennai,341,Vande Bharat,Chair Car,844.01,Confirmed,Website,26-40,Work,False
+TKT00493,2026-02-22,09:41:00,PAX0149,Bengaluru,Chennai,337,Express,General,132.3,Confirmed,Station Counter,18-25,Leisure,True
+TKT00494,2026-08-22,04:15:00,PAX0098,Delhi,Mumbai,1369,Vande Bharat,Chair Car,2597.92,Confirmed,Mobile App,26-40,Work,True
+TKT00495,2026-07-30,12:18:00,PAX0124,Chennai,Kolkata,1655,Superfast,Sleeper,1081.64,Confirmed,Mobile App,41-60,Work,False
+TKT00496,2026-06-22,18:37:00,PAX0017,Jaipur,Delhi,306,Vande Bharat,Chair Car,796.17,Confirmed,Mobile App,26-40,Education,False
+TKT00497,2026-03-24,08:19:00,PAX0143,Kolkata,Delhi,1445,Express,Sleeper,923.5,Confirmed,Station Counter,18-25,Leisure,False
+TKT00498,2026-04-05,08:23:00,PAX0073,Chennai,Bengaluru,343,Express,1AC,1126.48,Confirmed,Website,26-40,Family Visit,True
+TKT00499,2026-04-29,19:14:00,PAX0108,Mumbai,Delhi,1389,Superfast,General,694.13,Confirmed,Station Counter,41-60,Family Visit,False
+TKT00500,2026-06-30,14:20:00,PAX0037,Delhi,Jaipur,322,Express,3AC,518.88,Confirmed,Mobile App,26-40,Family Visit,False
